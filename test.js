@@ -1,3 +1,3 @@
 function fn() {
-  return 123
+  return 1234
 }
